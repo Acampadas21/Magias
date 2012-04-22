@@ -1,0 +1,9 @@
+name: Magias
+main: net.acampadas21.magias.Magias
+version: 1.0
+description: >
+             Hace cosas.
+commands:
+  mago:
+    description: Te cambia de tipo de mago.
+             
